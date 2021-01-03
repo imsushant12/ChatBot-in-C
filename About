@@ -1,0 +1,14 @@
+# ChatBot-in-C
+Introduction:
+
+A chatbot is a software generally used for an online chat conversation via text or speech. In this small project, a simple chat bot is made using C Language and File Handling concepts.
+
+
+Approach:
+
+Approach is very simple we are using the basic concepts of C Language and file handing. It will answer the questions of user that are there in the saved file. First we need to put some question-answers in the file and then store the file in the same folder in which the code is written.
+
+
+Features:
+
+It can greet the user and answer some questions.
